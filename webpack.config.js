@@ -2,7 +2,7 @@ var webpack = require('webpack');
 module.exports = {
     entry: "./entry.js",
     output: {
-        path: __dirname,
+        path: __dirname + '/dist',
         publicPath: "/",
         filename: "styleguide.js"
     },
