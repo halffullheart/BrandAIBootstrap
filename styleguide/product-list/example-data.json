@@ -1,0 +1,16 @@
+{
+  "product": [
+    {
+      "name": "SuperWidget",
+      "price": "19.99"
+    },
+    {
+      "name": "WonderWidget",
+      "price": "24.99"
+    },
+    {
+      "name": "MegaWidget",
+      "price": "29.99"
+    }
+  ]
+}
