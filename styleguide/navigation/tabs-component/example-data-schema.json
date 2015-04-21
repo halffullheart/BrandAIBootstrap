@@ -1,12 +1,12 @@
 {
   "tabType" : {
-    "description": "Tab type",
+    "label": "Tab type",
     "type" : "enum",
     "options": [
       "tab", "pill"
     ]},
   "disabled" : {
-    "description": "Disabled",
+    "label": "Disabled",
     "type" : "optional-string",
     "value" : "disabled"
   }

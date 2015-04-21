@@ -1,5 +1,5 @@
 {
-  "class" : { "description": "the class of classes", "options": [
+  "class" : { "label": "the class of classes", "options": [
     "primary", "success", "cancel"
     ]}
 }
