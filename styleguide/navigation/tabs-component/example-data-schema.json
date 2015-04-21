@@ -1,0 +1,7 @@
+{
+  "tabType" : {
+    "description": "Tab type",
+    "options": [
+      "tab", "pill"
+    ]}
+}
