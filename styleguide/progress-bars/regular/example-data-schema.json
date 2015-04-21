@@ -10,10 +10,16 @@
       {"label" : "Danger", "value" : "progress-bar-danger"}
     ]},
   "percent" : {
-    "label": "Percent",
+    "label": "%",
     "type" : "number",
     "min" : 0,
     "max" : 100,
     "step" : 1
+  },
+  "striped" : {
+    "label" : "Striped",
+    "type" : "optional-string",
+    "value" : "progress-bar-striped"
   }
 }
+        
