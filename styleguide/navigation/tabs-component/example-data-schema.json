@@ -9,5 +9,12 @@
     "label": "Disabled",
     "type" : "optional-string",
     "value" : "disabled"
+  },
+  "companyName" : {
+    "type" : "fake-company-name"
   }
 }
+
+
+
+        
