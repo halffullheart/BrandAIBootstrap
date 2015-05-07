@@ -1,7 +1,7 @@
 @charset "UTF-8";
-/*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 @import url(https://fonts.googleapis.com/css?family=Pacifico);
 @import url(https://fonts.googleapis.com/css?family=Walter+Turncoat);
+/*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
@@ -1060,7 +1060,7 @@ body {
   font-size: 14px;
   line-height: 1.42857;
   color: #333333;
-  background-color: purple; }
+  background-color: green; }
 
 input,
 button,
@@ -1099,7 +1099,7 @@ img {
 .img-thumbnail {
   padding: 4px;
   line-height: 1.42857;
-  background-color: purple;
+  background-color: green;
   border: 1px solid #ddd;
   border-radius: 4px;
   -webkit-transition: all 0.2s ease-in-out;
@@ -2055,7 +2055,7 @@ th {
   .table > tbody + tbody {
     border-top: 2px solid #ddd; }
   .table .table {
-    background-color: purple; }
+    background-color: green; }
 
 .table-condensed > thead > tr > th,
 .table-condensed > thead > tr > td,
@@ -3028,8 +3028,8 @@ select[multiple].input-lg, .input-group-lg > select[multiple].form-control,
 
 .btn-danger {
   color: #fff;
-  background-color: #d9534f;
-  border-color: #d43f3a; }
+  background-color: #f000ff;
+  border-color: #d800e6; }
   .btn-danger:hover,
   .btn-danger:focus,
   .btn-danger.focus,
@@ -3037,8 +3037,8 @@ select[multiple].input-lg, .input-group-lg > select[multiple].form-control,
   .btn-danger.active,
   .open > .btn-danger.dropdown-toggle {
     color: #fff;
-    background-color: #c9302c;
-    border-color: #ac2925; }
+    background-color: #c000cc;
+    border-color: #9e00a8; }
   .btn-danger:active,
   .btn-danger.active,
   .open > .btn-danger.dropdown-toggle {
@@ -3061,10 +3061,10 @@ select[multiple].input-lg, .input-group-lg > select[multiple].form-control,
   fieldset[disabled] .btn-danger.focus,
   fieldset[disabled] .btn-danger:active,
   fieldset[disabled] .btn-danger.active {
-    background-color: #d9534f;
-    border-color: #d43f3a; }
+    background-color: #f000ff;
+    border-color: #d800e6; }
   .btn-danger .badge {
-    color: #d9534f;
+    color: #f000ff;
     background-color: #fff; }
 
 .btn-link {
@@ -3621,7 +3621,7 @@ tbody.collapse.in {
     .nav-tabs > li.active > a:hover,
     .nav-tabs > li.active > a:focus {
       color: #555555;
-      background-color: purple;
+      background-color: green;
       border: 1px solid #ddd;
       border-bottom-color: transparent;
       cursor: default; }
@@ -3677,7 +3677,7 @@ tbody.collapse.in {
     .nav-tabs-justified > .active > a,
     .nav-tabs.nav-justified > .active > a, .nav-tabs-justified > .active > a:hover,
     .nav-tabs.nav-justified > .active > a:hover, .nav-tabs-justified > .active > a:focus, .nav-tabs.nav-justified > .active > a:focus {
-      border-bottom-color: purple; } }
+      border-bottom-color: green; } }
 
 .tab-content > .tab-pane {
   display: none; }
@@ -4321,10 +4321,10 @@ a.label:focus {
     background-color: #ec971f; }
 
 .label-danger {
-  background-color: #d9534f; }
+  background-color: #f000ff; }
   .label-danger[href]:hover,
   .label-danger[href]:focus {
-    background-color: #c9302c; }
+    background-color: #c000cc; }
 
 .badge {
   display: inline-block;
@@ -4401,7 +4401,7 @@ a.badge:focus {
   padding: 4px;
   margin-bottom: 20px;
   line-height: 1.42857;
-  background-color: purple;
+  background-color: green;
   border: 1px solid #ddd;
   border-radius: 4px;
   -webkit-transition: border 0.2s ease-in-out;
@@ -4554,7 +4554,7 @@ a.thumbnail.active {
     background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent); }
 
 .progress-bar-danger {
-  background-color: #d9534f; }
+  background-color: #f000ff; }
   .progress-striped .progress-bar-danger {
     background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
     background-image: -o-linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
