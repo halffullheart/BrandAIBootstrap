@@ -2905,8 +2905,8 @@ select[multiple].input-lg, .input-group-lg > select[multiple].form-control,
 
 .btn-success {
   color: #fff;
-  background-color: #5cb85c;
-  border-color: #4cae4c; }
+  background-color: #f45116;
+  border-color: #e6450b; }
   .btn-success:hover,
   .btn-success:focus,
   .btn-success.focus,
@@ -2914,8 +2914,8 @@ select[multiple].input-lg, .input-group-lg > select[multiple].form-control,
   .btn-success.active,
   .open > .btn-success.dropdown-toggle {
     color: #fff;
-    background-color: #449d44;
-    border-color: #398439; }
+    background-color: #cd3e0a;
+    border-color: #ab3308; }
   .btn-success:active,
   .btn-success.active,
   .open > .btn-success.dropdown-toggle {
@@ -2938,10 +2938,10 @@ select[multiple].input-lg, .input-group-lg > select[multiple].form-control,
   fieldset[disabled] .btn-success.focus,
   fieldset[disabled] .btn-success:active,
   fieldset[disabled] .btn-success.active {
-    background-color: #5cb85c;
-    border-color: #4cae4c; }
+    background-color: #f45116;
+    border-color: #e6450b; }
   .btn-success .badge {
-    color: #5cb85c;
+    color: #f45116;
     background-color: #fff; }
 
 .btn-info {
@@ -4303,10 +4303,10 @@ a.label:focus {
     background-color: black; }
 
 .label-success {
-  background-color: #5cb85c; }
+  background-color: #f45116; }
   .label-success[href]:hover,
   .label-success[href]:focus {
-    background-color: #449d44; }
+    background-color: #cd3e0a; }
 
 .label-info {
   background-color: #5bc0de; }
@@ -4533,7 +4533,7 @@ a.thumbnail.active {
   animation: progress-bar-stripes 2s linear infinite; }
 
 .progress-bar-success {
-  background-color: #5cb85c; }
+  background-color: #f45116; }
   .progress-striped .progress-bar-success {
     background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
     background-image: -o-linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
